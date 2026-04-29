@@ -39,7 +39,7 @@ Quickly sign in using stored `.ROBLOSECURITY` cookies for faster access without 
 
 This tool does not modify Roblox client files. However, using multiple accounts or automation tools may still be subject to Roblox's Terms of Service. Use responsibly.
 
-Your Roblox cookies are **encrypted** and stored **only on your local computer**. They are never uploaded, shared, or sent to any external server.
+Your Roblox cookies are encrypted and stored only on your local computer. They are never uploaded, shared, or sent to any external server, the encryption helps protect them from being easily read or exposed by other applications, including potential cookie loggers, in the event your files are accessed.
 
 ---
 
