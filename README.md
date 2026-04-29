@@ -67,10 +67,7 @@ It is not open-source to make sure that no **fake** Roblox Managers will come ou
 ---
 
 ## 📦 Installation
-
-> (Add your installation steps here depending on your build system, e.g. DMG, ZIP, or Tauri build)
-
-Example:
+Process:
 ```bash
 # Download latest release
 # Open RobloxManager.dmg
