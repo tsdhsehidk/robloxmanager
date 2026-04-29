@@ -26,7 +26,7 @@ This application stores sensitive authentication data (such as Roblox cookies) l
 
 Roblox Manager is not affiliated with, endorsed by, or associated with Roblox Corporation in any way.
 
-The developer of Roblox Manager are not responsible for any data loss, account compromise, or security issues that may occur due to:
+The developer of Roblox Manager is not responsible for any data loss, account compromise, or security issues that may occur due to:
 - Unauthorized access to your computer
 - Malware, keyloggers, or cookie-stealing software
 - Improper handling of your system or files by third-party applications
