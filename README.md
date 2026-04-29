@@ -18,6 +18,25 @@ Quickly sign in using stored `.ROBLOSECURITY` cookies for faster access without 
 
 ---
 
+## 📜 Terms of Use & Disclaimer
+
+By using Roblox Manager, you agree that you are using this software at your own risk.
+
+This application stores sensitive authentication data (such as Roblox cookies) locally on your device. While these are encrypted to help protect against unauthorized access, no local storage system can be considered completely immune if your device is compromised.
+
+Roblox Manager is not affiliated with, endorsed by, or associated with Roblox Corporation in any way.
+
+The developer of Roblox Manager are not responsible for any data loss, account compromise, or security issues that may occur due to:
+- Unauthorized access to your computer
+- Malware, keyloggers, or cookie-stealing software
+- Improper handling of your system or files by third-party applications
+
+We strongly recommend keeping your system secure and free from malicious software to ensure your data remains safe.
+
+By continuing to use this software, you acknowledge and accept these risks.
+
+---
+
 ## 🚀 Use Cases
 
 - Managing multiple Roblox accounts at once
